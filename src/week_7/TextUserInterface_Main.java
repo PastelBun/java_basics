@@ -1,4 +1,5 @@
 package week_7;
+import java.util.Scanner;
 
 public class TextUserInterface_Main {
     public static void main(String[] args) {
