@@ -12,9 +12,7 @@ public class RegistrationPlate {
     public String getRegCode() {
         return this.regCode;
     }
-    public String getCountry() {
-        return this.country;
-    }
+
     @Override
     public String toString(){
         return this.country+ " "+this.regCode;
