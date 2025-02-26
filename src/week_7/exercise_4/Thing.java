@@ -1,4 +1,4 @@
-package week_7;
+package week_7.exercise_4;
 import java.util.ArrayList;
 
 public class Thing {

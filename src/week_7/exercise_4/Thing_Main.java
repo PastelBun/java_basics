@@ -1,4 +1,4 @@
-package week_7;
+package week_7.exercise_4;
 
 public class Thing_Main {
     public static void main(String[] args) {

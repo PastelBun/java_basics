@@ -1,4 +1,4 @@
-package week_2;
+package week_2 .exercise_41;
 import java.util.Random;
 import java.util.Scanner;
 

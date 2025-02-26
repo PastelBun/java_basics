@@ -1,4 +1,4 @@
-package week_5;
+package week_5 .exercise_84;
 
 public class Counter_Main {
     public static void main(String[] args) {

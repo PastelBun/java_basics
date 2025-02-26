@@ -1,4 +1,4 @@
-package week_5;
+package week_5.exercise_86;
 
 public class CashRegister {
     private double cashInRegister;

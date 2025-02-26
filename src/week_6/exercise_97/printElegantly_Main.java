@@ -1,4 +1,4 @@
-package week_6;
+package week_6.exercise_97;
 
 public class printElegantly_Main {
     public static void main(String[] args) {

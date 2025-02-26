@@ -1,4 +1,4 @@
-package week_4;
+package week_4 .exercise_75;
 
 public class DecreasingCounter_Main {
     public static void main(String[] args) {

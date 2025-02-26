@@ -1,4 +1,4 @@
-package week_1;
+package week_1 .exercise_1;
 
 public class Name {
     public static void main(String[] args) {

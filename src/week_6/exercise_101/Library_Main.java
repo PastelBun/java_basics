@@ -1,4 +1,4 @@
-package week_6;
+package week_6.exercise_101;
 
 public class Library_Main {
     public static void main(String[] args) {

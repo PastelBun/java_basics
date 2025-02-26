@@ -1,4 +1,4 @@
-package week_3;
+package week_3 .exercise_51;
 import java.util.Scanner;
 
 public class sep_char {

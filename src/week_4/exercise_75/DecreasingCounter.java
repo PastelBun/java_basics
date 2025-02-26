@@ -1,4 +1,4 @@
-package week_4;
+package week_4 .exercise_75;
 
 public class DecreasingCounter {
     private int value;   // object variable that remembers the value of the counter

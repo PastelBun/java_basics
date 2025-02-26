@@ -1,4 +1,4 @@
-package week_7;
+package week_7.exercise_7;
 
 import java.util.ArrayList;
 import java.util.HashMap;

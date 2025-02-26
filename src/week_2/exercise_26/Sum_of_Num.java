@@ -1,4 +1,4 @@
-package week_2;
+package week_2 .exercise_26;
 import java.util.Scanner;
 
 public class Sum_of_Num {
