@@ -27,13 +27,10 @@ public class RegistrationPlate {
         }
         RegistrationPlate compared = (RegistrationPlate) obj;
 
-        if (this.country != compared.country) {
+        if (!this.country.equals(compared.country)) {
             return false;
         }
-        if (this.regCode == null || !this.regCode.equals(compared.getRegCode())){
-            return false;
-        }
-        return true;
+        return this.regCode != null && this.regCode.equals(compared.getRegCode());
     }
     @Override
     public int hashCode() {

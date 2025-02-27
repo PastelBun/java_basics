@@ -9,7 +9,7 @@
         RegistrationPlate reg2 = new RegistrationPlate("FI", "UXE-465");
         RegistrationPlate reg3 = new RegistrationPlate("D", "B WQ-431");
 
-        ArrayList<RegistrationPlate> finnish = new ArrayList<RegistrationPlate>();
+        ArrayList<RegistrationPlate> finnish = new ArrayList<>();
         finnish.add(reg1);
         finnish.add(reg2);
 
@@ -20,7 +20,7 @@
         System.out.println("Finnish: " + finnish);
         // if the equals method hasn't been overwritten, the same registration plate is repeated in the list
 
-        HashMap<RegistrationPlate, String> owners = new HashMap<RegistrationPlate, String>();
+        HashMap<RegistrationPlate, String> owners = new HashMap<>();
         owners.put(reg1, "Arto");
         owners.put(reg3, "Jürgen");
 
